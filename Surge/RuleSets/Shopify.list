@@ -1,0 +1,4 @@
+# > Shopify
+USER-AGENT,Shopify*
+DOMAIN-SUFFIX,shopify
+DOMAIN-SUFFIX,shopifycloud.com
