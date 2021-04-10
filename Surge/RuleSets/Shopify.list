@@ -1,4 +1,9 @@
-# > Shopify
+# Shopify
 USER-AGENT,Shopify*
-DOMAIN-SUFFIX,shopify
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shopifysvc.com
 DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,shopifycdn.com
