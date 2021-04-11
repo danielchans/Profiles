@@ -1,5 +1,5 @@
 # > Amazon
-USER-AGENT, Amazon.com, 🛍 Amazon
+USER-AGENT, *Amazon.com, 🛍 Amazon
 DOMAIN-SUFFIX, amazon.com, 🛍 Amazon
 DOMAIN-SUFFIX, amazon-adsystem.com, 🛍 Amazon
 DOMAIN-SUFFIX, aws.z2z.com, 🛍 Amazon
